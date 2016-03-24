@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[DavidDorn2]]></title>
+        <description><![CDATA[DavidDorn2]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 24 Mar 2016 21:51:42 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>The Supreme Court made a landmark decision this week about gay marriage (and Obama Care). They answered a question that has divided our country for a very long time. Though SCOTUS answered one big question, they only served to spawn many others and unearthed some old ones along the way. I know how divisive this issue is among Christians. But if we miss the people amid the situation, we miss seeing Jesus. Here’s the thing about Jesus, He always saw the people: the hurting, the broken, the proud, the religious, the marginalized, and He dug past the surface issues to hit upon the deeper questions. There are deeper questions at play here. Here is one of them.</p>]]></description>
+            <link>undefinedthe-supreme-court-made-a-landmark-decision-this-week-about-g/index.html</link>
+            <guid isPermaLink="false">d11770b8-50db-4491-ab98-1c083e4b9496</guid>
+            <pubDate>Thu, 24 Mar 2016 21:51:15 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
