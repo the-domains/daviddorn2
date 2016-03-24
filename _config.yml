@@ -1,7 +1,7 @@
 name: DavidDorn2
 favicon: null
-layout_spectrum: 0.5479075035545975
-typography_spectrum: 0.6936423175502568
+layout_spectrum: 0.28342
+typography_spectrum: 0.60948
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#010101'
+    - '#d9d9d9'
+    - '#353535'
+    - '#b5b5b5'
+    - '#777777'
   brandStrength: 0.37235557846724987
   lightness: 0.5706604195293039
   saturation: 0.8893731895368546
